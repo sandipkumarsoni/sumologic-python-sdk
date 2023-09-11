@@ -1,4 +1,4 @@
-Sumo Logic Python SDK
+Sumo Logic Python SDK BY SANDIP
 =====================
 
 Community-supported Python interface to the Sumo Logic REST API.  The idea is to make it easier to
